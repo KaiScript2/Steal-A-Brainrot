@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Op-Brainrott/Sab/refs/heads/main/AjjanLagger.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Op-Brainrott/Sab/refs/heads/main/main.lua"))()
